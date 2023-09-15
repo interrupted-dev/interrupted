@@ -43,6 +43,6 @@ for i in range(length):
      
     # appending a random character to password
     password.append(randomchar)
- 
+     
 # printing password as a string
 print("The random password is " + "".join(password))
